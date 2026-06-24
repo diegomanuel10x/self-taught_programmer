@@ -29,7 +29,7 @@ list = [str2_split, str2_split1, str2_split2]
 
 print(list)
 
-words = ["The", "fox", "jumped", "over", "the", "fence", "."]
+words = ["The", "fox ", "jumped", "over", "the", "fence", "."]
 
 print(" ".join(words))
 
@@ -37,5 +37,5 @@ replace = "A screaming cat comes across the sky."
 print(replace.replace("s", "$"))
 
 var = "three three three"
-var1 = " three "
+var1 = "three"
 print(var1 * 3)
