@@ -4,7 +4,7 @@ print("Hangman")
 
 
 def hangman(word):
-    stages = ["            😊      ",
+    stages = ["            <>      ",
               "           | H |    ",
               "            | |     ",
               ]
