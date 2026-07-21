@@ -1,6 +1,6 @@
 alphabet = list("qwertyuiopasdfghjklzxcvbnm")
 
-print("Hangman")
+print("Hangman") 
 
 
 def hangman(word):
